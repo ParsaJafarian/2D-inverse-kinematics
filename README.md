@@ -1,10 +1,9 @@
 # 2D-inverse-kinematics
 Simulation of a 2D robotic manipulator's movement using python and inverse kinematics. This was a small project that was designed to assess my learnings in pre-calculus math and python.
 
-# How to run
-1. Clone the repository
-2. Open `main.ipynb` in vscode or Jupyter notebooks
-3. Run `main.ipynb`
+# How to get started
+1. Navigate to `main.ipynb` & open it in google colab
+2. Make a copy and run all cells
 
 ## Steps in the project
 
